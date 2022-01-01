@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Azurite](github.com/Pricter/Azurite)
 
-- 🌱 I’m currently learning **C++, Unity, C#**
+- 🌱 I’m currently learning **C++**
 
 - 🤝 I’m looking for help with [Particle system with lwjgl](lwjgl.org)
 
